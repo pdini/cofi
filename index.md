@@ -2,7 +2,7 @@
 
 <!-- For refdef, see see https://stackoverflow.com/a/31712482/1187277 -->
 {:refdef: style="text-align: center;"}
-!["Apalache Logo"](./logo-apalache.png "Apalache Logo"){: height="100px"}
+!["CoFi Logo"](./logo-cofi.png "CoFi Logo"){: height="100px"}
 {:refdef}
 
 [Features][] • [Installation][] • [Manual][] • [Releases][] • [Chat][] • [Contribute][]
