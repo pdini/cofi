@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
-title: Apalache
-description: The Symbolic Model Checker for TLA+
+title: CoFi
+description: The Collaborative Finance side of the Cosmos
 show_downloads: "true"
 
 # Fix the download links
