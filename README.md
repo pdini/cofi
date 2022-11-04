@@ -1,8 +1,9 @@
 <div align="center">
-<img
-src="https://raw.githubusercontent.com/informalsystems/apalache/99e58d6f5eebcc41f432a126a13a5f8d2ae7afe6/logo-apalache.svg"
-alt="CoFi Logo">
-
+<p align="center">
+<a href="https://#">
+    <img src="http://www.pngmart.com/files/1/Coffee-Logo-PNG-Image.png" alt="CoFi logo" align="center" height="64" />
+</a>
+</p>
 <h1><a href="https://cofi.informal.systems/">CoFi</a></h1>
 
 <p>A collection of tools built to provide a growing ground for community/cooperative finance to achieve long term sustainability.
@@ -17,18 +18,12 @@ alt="CoFi Logo">
     <img height="20" src="https://github.com/informalsystems/obligation-clearing-mvp/actions/workflows/cosmwasm-devtools.yaml/badge.svg">
 </p>
 
-Apalache translates [TLA+] into the logic supported by SMT solvers such as
-[Microsoft Z3]. Apalache can check inductive invariants (for fixed or bounded
-parameters) and check safety of bounded executions (bounded model checking). To
-see the list of supported TLA+ constructs, check the [supported features]. In
-general, Apalache runs under the same assumptions as [TLC].
+CoFi is meant as common good intangible (software -> text) infrastructure which aims at becoming the go to library to which people and communities anywhere can access, edit and improve, remix, redistribute to design first, deploy and maintain/grow financial primitives for the benefit of their respective economic networks.
 
-To learn more about TLA+, visit [Leslie Lamport's page on TLA+] and his [Video
-course].
 
 ## Releases
 
-Check the [releases page][] for our latest release.
+Check the [Obligation Clearing](https://github.com/informalsystems/obligation-clearing-mvp) for our latest release.
 
 For a stable release, we recommend that you pull the latest docker image with
 `docker pull ghcr.io/informalsystems/apalache:main`, use the jar from the
