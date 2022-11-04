@@ -1,18 +1,21 @@
 <div align="center">
 <img
 src="https://raw.githubusercontent.com/informalsystems/apalache/99e58d6f5eebcc41f432a126a13a5f8d2ae7afe6/logo-apalache.svg"
-alt="Apalache Logo">
+alt="CoFi Logo">
 
-<h1><a href="https://apalache.informal.systems/">APALACHE</a></h1>
+<h1><a href="https://cofi.informal.systems/">CoFi</a></h1>
 
-<p>A symbolic model checker for TLA+<p>
+<p>A collection of tools built to provide a growing ground for community/cooperative finance to achieve long term sustainability.
+</p>
+
 
 </div>
 
-[![main badge][]][main-ci]
-
-[main badge]: https://github.com/informalsystems/apalache/workflows/build/badge.svg?branch=main
-[main-ci]: https://github.com/informalsystems/apalache/actions?query=branch%3Amain+workflow%3Abuild
+<p align="center">
+    <img  height="20" src="https://github.com/informalsystems/obligation-clearing-mvp/actions/workflows/basic.yaml/badge.svg">
+    <img height="20" src="https://github.com/informalsystems/obligation-clearing-mvp/actions/workflows/cosmwasm.yaml/badge.svg">
+    <img height="20" src="https://github.com/informalsystems/obligation-clearing-mvp/actions/workflows/cosmwasm-devtools.yaml/badge.svg">
+</p>
 
 Apalache translates [TLA+] into the logic supported by SMT solvers such as
 [Microsoft Z3]. Apalache can check inductive invariants (for fixed or bounded
